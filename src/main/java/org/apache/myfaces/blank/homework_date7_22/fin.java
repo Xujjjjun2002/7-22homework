@@ -1,4 +1,4 @@
-package org.apache.myfaces.blank.homework;
+package org.apache.myfaces.blank.homework_date7_22;
 
 import java.util.Scanner;
 public class fin {

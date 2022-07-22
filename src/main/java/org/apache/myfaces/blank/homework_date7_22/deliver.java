@@ -1,6 +1,4 @@
-package org.apache.myfaces.blank.homework;
-
-import java.util.Scanner;
+package org.apache.myfaces.blank.homework_date7_22;
 
 public class deliver {
     public static void main(String[] args)

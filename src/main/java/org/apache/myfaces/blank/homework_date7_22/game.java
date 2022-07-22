@@ -1,4 +1,4 @@
-package org.apache.myfaces.blank.homework;
+package org.apache.myfaces.blank.homework_date7_22;
 
 public class game {
     public static void main(String[] args){
